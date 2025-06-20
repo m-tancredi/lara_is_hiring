@@ -1,0 +1,371 @@
+{
+    "biography": {
+        "full_name": "Lara Croft",
+        "birth_year": 1968,
+        "birth_place": "Wimbledon, London, England",
+        "birth_place_it": "Wimbledon, Londra, Inghilterra",
+        "parents": {
+            "father": "Lord Richard Croft",
+            "mother": "Lady Amelia Croft"
+        },
+        "education": "Gordonstoun School, Scotland",
+        "education_it": "Scuola Gordonstoun, Scozia",
+        "home": "Croft Manor, Surrey, England",
+        "home_it": "Tenuta Croft, Surrey, Inghilterra",
+        "occupation": "Archaeologist and Adventurer",
+        "occupation_it": "Archeologa e Avventuriera",
+        "nationality": "British",
+        "nationality_it": "Britannica"
+    },
+    
+    "characteristics": {
+        "height": "175 cm",
+        "eye_color": "brown",
+        "eye_color_it": "marroni",
+        "hair_color": "brown",
+        "hair_color_it": "castani",
+        "skills": [
+            "acrobatics",
+            "climbing",
+            "swimming",
+            "shooting",
+            "martial arts",
+            "languages",
+            "puzzle solving",
+            "survival"
+        ],
+        "skills_it": [
+            "acrobatica",
+            "arrampicata",
+            "nuoto",
+            "tiro con armi da fuoco",
+            "arti marziali",
+            "lingue",
+            "risoluzione di enigmi",
+            "sopravvivenza"
+        ],
+        "weapons": [
+            "dual pistols",
+            "bow and arrow",
+            "shotgun",
+            "assault rifle"
+        ],
+        "weapons_it": [
+            "doppie pistole",
+            "arco e frecce",
+            "fucile a pompa",
+            "fucile d'assalto"
+        ]
+    },
+    
+    "adventures": {
+        "Tomb Raider I": {
+            "year": 1996,
+            "locations": ["Peru", "Greece", "Egypt", "Atlantis"],
+            "locations_it": ["Perù", "Grecia", "Egitto", "Atlantide"],
+            "artifacts": ["Scion of Atlantis"],
+            "artifacts_it": ["Scion di Atlantide"],
+            "villains": ["Jacqueline Natla"],
+            "description": "Lara searches for the mysterious Scion artifact, racing against the wealthy businesswoman Jacqueline Natla.",
+            "description_it": "Lara cerca il misterioso artefatto Scion, in competizione con la ricca imprenditrice Jacqueline Natla."
+        },
+        "Tomb Raider II": {
+            "year": 1997,
+            "locations": ["Great Wall of China", "Venice", "Tibet", "Offshore Rig"],
+            "locations_it": ["Grande Muraglia Cinese", "Venezia", "Tibet", "Piattaforma Petrolifera"],
+            "artifacts": ["Dagger of Xian"],
+            "artifacts_it": ["Pugnale di Xian"],
+            "villains": ["Marco Bartoli"],
+            "description": "Lara hunts for the Dagger of Xian, which is said to give its bearer the power of the dragon.",
+            "description_it": "Lara va alla ricerca del Pugnale di Xian, che si dice dia al suo possessore il potere del drago."
+        },
+        "Tomb Raider III": {
+            "year": 1998,
+            "locations": ["India", "South Pacific", "London", "Nevada", "Antarctica"],
+            "locations_it": ["India", "Pacifico Meridionale", "Londra", "Nevada", "Antartide"],
+            "artifacts": ["Meteorite artifacts"],
+            "artifacts_it": ["Artefatti del meteorite"],
+            "villains": ["Dr. Willard"],
+            "description": "Lara travels around the world searching for four artifacts created from a meteorite with mysterious powers.",
+            "description_it": "Lara viaggia in tutto il mondo alla ricerca di quattro artefatti creati da un meteorite con poteri misteriosi."
+        },
+        "Tomb Raider IV: The Last Revelation": {
+            "year": 1999,
+            "locations": ["Egypt", "Cambodia"],
+            "locations_it": ["Egitto", "Cambogia"],
+            "artifacts": ["Amulet of Horus"],
+            "artifacts_it": ["Amuleto di Horus"],
+            "villains": ["Seth", "Werner Von Croy"],
+            "description": "Lara accidentally releases the Egyptian god Seth and must imprison him again using the Amulet of Horus.",
+            "description_it": "Lara libera accidentalmente il dio egizio Seth e deve imprigionarlo di nuovo usando l'Amuleto di Horus."
+        },
+        "Tomb Raider V: Chronicles": {
+            "year": 2000,
+            "locations": ["Rome", "Russia", "Ireland", "New York"],
+            "locations_it": ["Roma", "Russia", "Irlanda", "New York"],
+            "artifacts": ["Philosopher's Stone", "Spear of Destiny"],
+            "artifacts_it": ["Pietra Filosofale", "Lancia del Destino"],
+            "villains": ["Verdilet", "Sergei Mikhailov"],
+            "description": "After Lara is presumed dead, her friends reminisce about her past adventures that were previously untold.",
+            "description_it": "Dopo che Lara è presunta morta, i suoi amici ricordano le sue avventure passate mai raccontate prima."
+        },
+        "Tomb Raider: The Angel of Darkness": {
+            "year": 2003,
+            "locations": ["Paris", "Prague"],
+            "locations_it": ["Parigi", "Praga"],
+            "artifacts": ["Obscura Paintings", "Sanglyph"],
+            "artifacts_it": ["Dipinti Obscura", "Sanglyph"],
+            "villains": ["Pieter Van Eckhardt", "Joachim Karel"],
+            "description": "Lara is framed for the murder of her former mentor Werner Von Croy and must clear her name while investigating a dark alchemical secret.",
+            "description_it": "Lara viene incastrata per l'omicidio del suo ex mentore Werner Von Croy e deve scagionarsi mentre indaga su un oscuro segreto alchemico."
+        }
+    },
+    
+    "facts": [
+        {
+            "fact": "Lara Croft was created by Toby Gard.",
+            "fact_it": "Lara Croft è stata creata da Toby Gard."
+        },
+        {
+            "fact": "The first Tomb Raider game was released in 1996.",
+            "fact_it": "Il primo gioco di Tomb Raider è stato pubblicato nel 1996."
+        },
+        {
+            "fact": "Lara Croft holds the Guinness World Record for 'Most Recognized Female Video Game Character'.",
+            "fact_it": "Lara Croft detiene il Guinness World Record come 'Personaggio femminile di videogiochi più riconosciuto'."
+        },
+        {
+            "fact": "Lara was originally going to be named 'Laura Cruz'.",
+            "fact_it": "Inizialmente Lara doveva chiamarsi 'Laura Cruz'."
+        },
+        {
+            "fact": "Angelina Jolie and Alicia Vikander have portrayed Lara Croft in films.",
+            "fact_it": "Angelina Jolie e Alicia Vikander hanno interpretato Lara Croft nei film."
+        },
+        {
+            "fact": "Lara's parents are presumed dead in most of the original timeline.",
+            "fact_it": "I genitori di Lara sono presunti morti nella maggior parte della timeline originale."
+        },
+        {
+            "fact": "Lara Croft appeared on the cover of TIME magazine in 1997.",
+            "fact_it": "Lara Croft è apparsa sulla copertina della rivista TIME nel 1997."
+        },
+        {
+            "fact": "The Tomb Raider franchise has sold over 85 million copies worldwide.",
+            "fact_it": "Il franchise di Tomb Raider ha venduto oltre 85 milioni di copie in tutto il mondo."
+        }
+    ],
+    
+    "quotes": [
+        {
+            "quote": "I make my own luck.",
+            "quote_it": "Io creo la mia fortuna."
+        },
+        {
+            "quote": "The extraordinary is in what we do, not who we are.",
+            "quote_it": "La straordinarietà è in ciò che facciamo, non in chi siamo."
+        },
+        {
+            "quote": "A famous explorer once said that the extraordinary is in what we do, not who we are.",
+            "quote_it": "Un famoso esploratore disse una volta che la straordinarietà è in ciò che facciamo, non in chi siamo."
+        },
+        {
+            "quote": "I hate tombs.",
+            "quote_it": "Odio le tombe."
+        },
+        {
+            "quote": "I'm not afraid of dying, I just don't want to.",
+            "quote_it": "Non ho paura di morire, semplicemente non voglio farlo."
+        }
+    ],
+    
+    "personality_traits": [
+        {
+            "trait": "Determined",
+            "trait_it": "Determinata"
+        },
+        {
+            "trait": "Intelligent",
+            "trait_it": "Intelligente"
+        },
+        {
+            "trait": "Resourceful",
+            "trait_it": "Ingegnosa"
+        },
+        {
+            "trait": "Independent",
+            "trait_it": "Indipendente"
+        },
+        {
+            "trait": "Courageous",
+            "trait_it": "Coraggiosa"
+        },
+        {
+            "trait": "Witty",
+            "trait_it": "Arguta"
+        },
+        {
+            "trait": "Adventurous",
+            "trait_it": "Avventurosa"
+        }
+    ],
+    
+    "questions": [
+        {
+            "question": "When was Lara Croft born?",
+            "question_it": "Quando è nata Lara Croft?",
+            "answer_key": "biography.birth_year",
+            "type": "factual"
+        },
+        {
+            "question": "Where was Lara Croft born?",
+            "question_it": "Dove è nata Lara Croft?",
+            "answer_key": "biography.birth_place",
+            "type": "factual"
+        },
+        {
+            "question": "What is Lara Croft's occupation?",
+            "question_it": "Qual è l'occupazione di Lara Croft?",
+            "answer_key": "biography.occupation",
+            "type": "factual"
+        },
+        {
+            "question": "Who are Lara Croft's parents?",
+            "question_it": "Chi sono i genitori di Lara Croft?",
+            "answer_key": "biography.parents",
+            "type": "factual"
+        },
+        {
+            "question": "Which weapons does Lara typically use?",
+            "question_it": "Quali armi usa tipicamente Lara?",
+            "answer_key": "characteristics.weapons",
+            "type": "list"
+        },
+        {
+            "question": "Name at least three skills that Lara possesses.",
+            "question_it": "Nomina almeno tre abilità che possiede Lara.",
+            "answer_key": "characteristics.skills",
+            "type": "list"
+        },
+        {
+            "question": "What artifact was Lara searching for in the first Tomb Raider game?",
+            "question_it": "Quale artefatto cercava Lara nel primo gioco di Tomb Raider?",
+            "answer_key": "adventures.Tomb Raider I.artifacts[0]",
+            "type": "factual"
+        },
+        {
+            "question": "In which year was Tomb Raider II released?",
+            "question_it": "In quale anno è stato pubblicato Tomb Raider II?",
+            "answer_key": "adventures.Tomb Raider II.year",
+            "type": "factual"
+        },
+        {
+            "question": "Is Lara Croft British?",
+            "question_it": "Lara Croft è britannica?",
+            "answer_key": "biography.nationality",
+            "expected_answer": "Yes",
+            "expected_answer_it": "Sì",
+            "type": "yes_no"
+        },
+        {
+            "question": "Who created the character of Lara Croft?",
+            "question_it": "Chi ha creato il personaggio di Lara Croft?",
+            "answer_key": "facts[0].fact",
+            "type": "factual"
+        },
+        {
+            "question": "What is Lara's home called?",
+            "question_it": "Come si chiama la casa di Lara?",
+            "answer_key": "biography.home",
+            "type": "factual"
+        },
+        {
+            "question": "How tall is Lara Croft?",
+            "question_it": "Quanto è alta Lara Croft?",
+            "answer_key": "characteristics.height",
+            "type": "factual"
+        },
+        {
+            "question": "What color are Lara's eyes?",
+            "question_it": "Di che colore sono gli occhi di Lara?",
+            "answer_key": "characteristics.eye_color",
+            "type": "factual"
+        },
+        {
+            "question": "In which locations did Lara adventure during Tomb Raider III?",
+            "question_it": "In quali luoghi Lara ha avventure durante Tomb Raider III?",
+            "answer_key": "adventures.Tomb Raider III.locations",
+            "type": "list"
+        },
+        {
+            "question": "Who was the main villain in Tomb Raider: The Angel of Darkness?",
+            "question_it": "Chi era il principale antagonista in Tomb Raider: The Angel of Darkness?",
+            "answer_key": "adventures.Tomb Raider: The Angel of Darkness.villains[0]",
+            "type": "factual"
+        },
+        {
+            "question": "Does Lara have martial arts skills?",
+            "question_it": "Lara possiede abilità nelle arti marziali?",
+            "answer_key": "characteristics.skills",
+            "expected_answer": "Yes",
+            "expected_answer_it": "Sì",
+            "type": "yes_no"
+        },
+        {
+            "question": "What is one famous quote of Lara Croft?",
+            "question_it": "Qual è una famosa citazione di Lara Croft?",
+            "answer_key": "quotes",
+            "type": "list"
+        },
+        {
+            "question": "Which actresses have portrayed Lara Croft in films?",
+            "question_it": "Quali attrici hanno interpretato Lara Croft nei film?",
+            "answer_key": "facts[4].fact",
+            "type": "factual"
+        },
+        {
+            "question": "In which year did Lara Croft appear on the cover of TIME magazine?",
+            "question_it": "In quale anno Lara Croft è apparsa sulla copertina della rivista TIME?",
+            "answer_key": "facts[6].fact",
+            "type": "factual"
+        },
+        {
+            "question": "What was Lara's original name going to be?",
+            "question_it": "Quale doveva essere il nome originale di Lara?",
+            "answer_key": "facts[3].fact",
+            "type": "factual"
+        },
+        {
+            "question": "Name at least two of Lara's personality traits.",
+            "question_it": "Nomina almeno due tratti della personalità di Lara.",
+            "answer_key": "personality_traits",
+            "type": "list"
+        },
+        {
+            "question": "What artifact was Lara searching for in Tomb Raider II?",
+            "question_it": "Quale artefatto cercava Lara in Tomb Raider II?",
+            "answer_key": "adventures.Tomb Raider II.artifacts[0]",
+            "type": "factual"
+        },
+        {
+            "question": "Where did Lara go to school?",
+            "question_it": "Dove ha studiato Lara?",
+            "answer_key": "biography.education",
+            "type": "factual"
+        },
+        {
+            "question": "Is Lara known for using a bow and arrow?",
+            "question_it": "Lara è nota per l'utilizzo di arco e frecce?",
+            "answer_key": "characteristics.weapons",
+            "expected_answer": "Yes",
+            "expected_answer_it": "Sì",
+            "type": "yes_no"
+        },
+        {
+            "question": "How many copies has the Tomb Raider franchise sold worldwide?",
+            "question_it": "Quante copie ha venduto il franchise di Tomb Raider in tutto il mondo?",
+            "answer_key": "facts[7].fact",
+            "type": "factual"
+        }
+    ]
+}
